@@ -3,10 +3,6 @@
 ________
 
 👋 I'm Arye Eidelman [@arye-eidelman](https://github.com/arye-eidelman).
-Yes, I do get notified every time you mention @ts-check in your public repo commit messages.
+Yes, I get notified every time you mention @ts-check in your (public) repo commit messages, issues, etc.
 
-I'm looking for work.
-
-[aryeeidelman.com](https://www.aryeeidelman.com)
-
-[aryedoveidelman@gmail.com](mailto:aryedoveidelman@gmail.com)
+I'm looking for work. find me at [aryeeidelman.com](https://www.aryeeidelman.com) or email [aryedoveidelman@gmail.com](mailto:aryedoveidelman@gmail.com).
