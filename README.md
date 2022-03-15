@@ -1,4 +1,4 @@
-`// @ts-check` enables TypeScript type checking for the entire file, see [JS Projects Utilizing TypeScript](https://www.typescriptlang.org/docs/handbook/intro-to-js-ts.html#ts-check).
+`// @ts-check` enables TypeScript type checking for this file, see [JS Projects Utilizing TypeScript](https://www.typescriptlang.org/docs/handbook/intro-to-js-ts.html#ts-check).
 
 ________
 
